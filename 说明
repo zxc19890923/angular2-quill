@@ -1,0 +1,4 @@
+1. 安装 quill ng2-quill-editor
+2. angular-li.json 中配置quill.js文件地址
+然后按照教程配置
+https://segmentfault.com/a/1190000008170508
